@@ -2,4 +2,5 @@
 Activity given 
 Hello everyone
 this is the activity 
-given for our class to complete
+to merge the files
+and add some files
