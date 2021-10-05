@@ -1,0 +1,4 @@
+def firstprogram():
+  name=input()
+  print("Hello")
+  print(name)
